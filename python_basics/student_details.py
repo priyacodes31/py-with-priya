@@ -1,0 +1,20 @@
+#program: student details 
+#topic:variabel and data types
+
+name=input("enter your name:")
+age=int(input("enter your age:"))
+course=input("enter your course:")
+roll_no=int(input ("enter your roll number:"))
+percentage=float(input("enter your percentage:"))
+gender=input("enter your gender:")
+city=input("enter your city:")
+phone_no= int(input("enter your phone number :"))
+print("\n-------student Deatils------")
+print("name:",name)
+print("age:",age)
+print("course:",course)
+print("Roll no:",roll_no)
+print("precentage:",percentage)
+print("gender;:",gender)
+print("city:",city)
+print("phone no:",phone_no)
